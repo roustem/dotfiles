@@ -1,4 +1,4 @@
-alias b='cd $GOPATH/src/github.com/AgileBits'
+alias b5='cd $GOPATH/src/github.com/AgileBits/B5'
 alias b='go run build.go'
 alias bc='go run build.go compile'
 alias br='go run build.go clean all run'
