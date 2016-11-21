@@ -1,0 +1,6 @@
+alias b='cd $GOPATH/src/github.com/AgileBits'
+alias b='go run build.go'
+alias bc='go run build.go compile'
+alias br='go run build.go clean all run'
+alias t='go run build.go clean all test'
+alias t2='go run build.go clean all test2'
