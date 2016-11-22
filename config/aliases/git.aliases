@@ -1,3 +1,5 @@
+alias g='git pull'
+alias d='git diff --color --no-renames'
 alias gst='git status'
 alias gp='git push'
 alias gh=github
