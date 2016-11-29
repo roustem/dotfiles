@@ -1,0 +1,3 @@
+
+[[ $- = *i* ]] && source ~/liquidprompt/liquidprompt
+

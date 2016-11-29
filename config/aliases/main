@@ -1,3 +1,10 @@
 source ~/.config/aliases/git.aliases
 source ~/.config/aliases/b5.aliases
 
+alias l='ls'
+alias ll='ls -lh'
+alias la='ls -a'
+alias lal='ls -lah'
+
+alias vimgo="docker run --rm -it -v $GOPATH:/go mbrt/golang-vim-dev"
+alias aws='docker run -it --rm -v ~/.aws:/home/aws/.aws -v $PWD:/data roustem/awscli'
