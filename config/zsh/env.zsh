@@ -9,5 +9,6 @@ export GOPATH="$HOME/go"
 export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:"$HOME/bin"
+export PATH=$PATH:"$HOME/.npm-global/bin"
 
 export MANPATH="/usr/local/share/man:/usr/X11/man:/usr/share/man"
